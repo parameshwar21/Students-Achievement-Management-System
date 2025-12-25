@@ -1,2 +1,3 @@
 RewriteEngine On
-DirectoryIndex index.php
+DirectoryIndex main.php
+
